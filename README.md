@@ -1,2 +1,2 @@
 # How_To
-A collection of "how to" projects and code examples
+A collection of "how to" tutorial projects and code examples
